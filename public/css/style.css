@@ -175,10 +175,11 @@
     justify-content: space-around;
     background-color: grey;
     width: 100%;
+    height: 300px;
 
     color: white;
     align-items: center;
-    padding-top: 20px;
+
 }
 
 .bor2 {
@@ -255,6 +256,17 @@
 
 
 
+
+.imagealone{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    top: 60%;
+    left: 46%;
+    color: white;
+    font-size: 25;
+    border: 1px black solid;
+}
 
 
 
