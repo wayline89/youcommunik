@@ -1,4 +1,4 @@
-.barreh{
+.barreh {
     display: flex;
     background-color: black;
     color: white;
@@ -10,7 +10,8 @@
     margin-left: auto;
 
 }
-.icones div{
+
+.icones div {
     width: 100px;
     text-align: center;
     margin-left: 10px;
@@ -18,8 +19,8 @@
 
 }
 
-.imgg {
-  padding-top:  30px;
+.img {
+    padding-top: 30px;
 }
 
 .partieun {
@@ -39,16 +40,222 @@
 }
 
 .boite {
-   padding-top: 2%;
-   padding-bottom: 1%;
-padding-left: 7%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-left: 7%;
 }
 
 .textdeux {
     position: absolute;
     display: flex;
-    top: 50% ;
-color: white;
-font-size: 25;
+    top: 50%;
+    color: white;
+    font-size: 25;
 }
+
+.partiedeux {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: white;
+    height: 300px;
+}
+
+.oeuf {
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-left: 7%;
+    align-items: flex-end;
+    position: absolute;
+
+}
+
+.bouton {
+    position: absolute;
+    display: flex;
+    top: 15%;
+    left: 40%;
+}
+
+.boubou {
+    width: 200px;
+    height: 50px;
+    background-color: grey;
+    color: white;
+}
+
+.textoeuf {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 40%;
+    left: 40%;
+    color: grey;
+    font-size: 25;
+}
+
+
+.troisP {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+
+}
+
+.troisImg {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    width: 100%;
+
+    color: white;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.bor {
+    justify-content: center;
+    align-items: center;
+}
+
+
+.partietrois {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: white;
+    height: 300px;
+}
+
+.oeuf2 {
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-left: 7%;
+    align-items: flex-end;
+    position: absolute;
+
+}
+
+.bouton2 {
+    position: absolute;
+    display: flex;
+    top: 15%;
+    left: 40%;
+}
+
+.boubou2 {
+    width: 200px;
+    height: 50px;
+    background-color: grey;
+    color: white;
+}
+
+.textoeuf2 {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 40%;
+    left: 40%;
+    color: grey;
+    font-size: 25;
+}
+
+
+.quatreP {
+    flex-direction: column;
+    display: flex;
+    position: relative;
+
+}
+
+.quatreImg {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    width: 100%;
+
+    color: white;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.bor2 {
+    justify-content: center;
+    align-items: center;
+}
+
+
+.partieaa {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: white;
+    height: 300px;
+}
+
+.oeuf3 {
+    padding-top: 2%;
+    padding-bottom: 1%;
+    padding-left: 7%;
+    align-items: flex-end;
+    position: absolute;
+
+}
+
+.bouton3 {
+    position: absolute;
+    display: flex;
+    top: 15%;
+    left: 40%;
+}
+
+.boubou3 {
+    width: 200px;
+    height: 50px;
+    background-color: grey;
+    color: white;
+}
+
+.textoeuf3 {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 40%;
+    left: 40%;
+    color: grey;
+    font-size: 25;
+}
+
+
+.AAP {
+    flex-direction: column;
+    display: flex;
+    position: relative;
+
+}
+
+.AAImg {
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+    width: 100%;
+    position: absolute;
+    color: white;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.bor3 {
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
 
