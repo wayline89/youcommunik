@@ -1,0 +1,54 @@
+.barreh{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+.icones {
+    display: flex;
+    float: right;
+    margin-left: auto;
+
+}
+.icones div{
+    width: 100px;
+    text-align: center;
+    margin-left: 10px;
+    padding-top: 10px;
+
+}
+
+.imgg {
+  padding-top:  30px;
+}
+
+.partieun {
+    display: flex;
+    position: relative;
+    background-color: grey;
+}
+
+.txtun {
+    position: absolute;
+    display: flex;
+    top: 30%;
+    left: 40%;
+    font-size: 32;
+    color: white;
+
+}
+
+.boite {
+   padding-top: 2%;
+   padding-bottom: 1%;
+padding-left: 7%;
+}
+
+.textdeux {
+    position: absolute;
+    display: flex;
+    top: 50% ;
+color: white;
+font-size: 25;
+}
+
